@@ -1,0 +1,5 @@
+dist
+node_modules
+src/brain
+src/chunks.json
+src/config.ts
